@@ -1,0 +1,25 @@
+{
+  "name": "tree-view",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lellansin/node-tree-view.git"
+  },
+  "keywords": [
+    "traverse"
+  ],
+  "author": "Lellansin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lellansin/node-tree-view/issues"
+  },
+  "homepage": "https://github.com/Lellansin/node-tree-view"
+}
