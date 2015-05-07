@@ -1,7 +1,7 @@
 {
   "name": "tree-view",
   "version": "0.1.0",
-  "description": "",
+  "description": "Show javascript JSON and Array structure with tree view.",
   "main": "index.js",
   "directories": {
     "test": "tests"
