@@ -1,7 +1,7 @@
 {
-  "name": "tree-view",
+  "name": "tree-var",
   "version": "0.1.0",
-  "description": "Show javascript JSON and Array structure with tree view.",
+  "description": "Show javascript variables with tree view.",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -11,15 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lellansin/node-tree-view.git"
+    "url": "https://github.com/Lellansin/node-tree-var.git"
   },
   "keywords": [
-    "traverse"
+    "traverse",
+    "tree"
   ],
   "author": "Lellansin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Lellansin/node-tree-view/issues"
+    "url": "https://github.com/Lellansin/node-tree-var/issues"
   },
-  "homepage": "https://github.com/Lellansin/node-tree-view"
+  "homepage": "https://github.com/Lellansin/node-tree-var"
 }

@@ -1,9 +1,9 @@
-# node-tree-view
+# tree-var
 
-Show javascript JSON and Array structure with tree view.
+Show javascript variables with tree view.
 
 ```javascript
-var tree = require('../');
+var tree = require('tree-var');
 
 var obj = {
   name: 'Alan',
