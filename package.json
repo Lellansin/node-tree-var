@@ -2,7 +2,7 @@
   "name": "tree-var",
   "version": "0.1.0",
   "description": "Show javascript variables with tree view.",
-  "main": "index.js",
+  "main": "./lib/tree",
   "directories": {
     "test": "tests"
   },
